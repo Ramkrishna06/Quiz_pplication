@@ -42,7 +42,7 @@ Settings Screen: Enable dark mode, sound effects, and reset progress.
 
 Insert gif or link to demo
 
-https://todo-list-70bfa.web.app/
+[https://todo-list-70bfa.web.app/](https://quizapp-b9fe5.web.app/)
 
 Above this is a demo link to web app.
 ## Screenshots
