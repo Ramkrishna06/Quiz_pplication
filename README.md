@@ -1,5 +1,5 @@
 
-# TODOLIST Using (Flutter project)
+# QuizApp Using (Flutter project)
 
 1. Overview
 The Quiz App is a mobile application developed using Flutter and Dart that allows users to test their knowledge on various topics through interactive quizzes. 
